@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Mar 2024 08:53:20 at https://NULEC LTD.store/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://NULEC LTD.store/ -O1 "F:\Develop\My Websites\NULEC LTD" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:53:21	Error: 	"Method Not Allowed" (405) at link https://NULEC LTD.store/xmlrpc.php (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z11lE92JQEl8qw.woff (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlE92JQEl8qw.woff (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlE92JQEk.woff (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff (from https://NULEC LTD.store/)
+08:53:21	Error: 	"Not Found" (404) at link https://NULEC LTD.store/home/runcloud/webapps/wpsupover/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff (from https://NULEC LTD.store/)
+08:53:21	Warning: 	Link https://NULEC LTD.store/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+08:53:23	Error: 	"Bad Request" (400) at link https://NULEC LTD.store/wp-admin/admin-ajax.php (from https://NULEC LTD.store/)
+08:53:23	Warning: 	Found for https://NULEC LTD.store/checkout/
+08:53:23	Warning: 	File has moved from https://NULEC LTD.store/checkout/ to https://NULEC LTD.store/cart/
+08:53:31	Warning: 	Moved Permanently for https://NULEC LTD.store/shop/page/1/
+08:53:31	Warning: 	File has moved from https://NULEC LTD.store/shop/page/1/ to https://NULEC LTD.store/shop/
+08:53:36	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/clothing/page/1/
+08:53:36	Warning: 	File has moved from https://NULEC LTD.store/product-category/clothing/page/1/ to https://NULEC LTD.store/product-category/clothing/
+08:53:39	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/clothing/womens-clothing/page/1/
+08:53:39	Warning: 	File has moved from https://NULEC LTD.store/product-category/clothing/womens-clothing/page/1/ to https://NULEC LTD.store/product-category/clothing/womens-clothing/
+08:53:39	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/clothing/mens-clothing/page/1/
+08:53:39	Warning: 	File has moved from https://NULEC LTD.store/product-category/clothing/mens-clothing/page/1/ to https://NULEC LTD.store/product-category/clothing/mens-clothing/
+08:53:41	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/shoes/page/1/
+08:53:41	Warning: 	File has moved from https://NULEC LTD.store/product-category/shoes/page/1/ to https://NULEC LTD.store/product-category/shoes/
+08:53:43	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/shoes/mens-shoes/page/1/
+08:53:43	Warning: 	File has moved from https://NULEC LTD.store/product-category/shoes/mens-shoes/page/1/ to https://NULEC LTD.store/product-category/shoes/mens-shoes/
+08:53:43	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/shoes/womens-shoes/page/1/
+08:53:43	Warning: 	File has moved from https://NULEC LTD.store/product-category/shoes/womens-shoes/page/1/ to https://NULEC LTD.store/product-category/shoes/womens-shoes/
+08:53:44	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/car-seat-covers/page/1/
+08:53:44	Warning: 	File has moved from https://NULEC LTD.store/product-category/car-seat-covers/page/1/ to https://NULEC LTD.store/product-category/car-seat-covers/
+08:54:03	Warning: 	Moved Permanently for https://NULEC LTD.store/product-category/gloves/page/1/
+08:54:03	Warning: 	File has moved from https://NULEC LTD.store/product-category/gloves/page/1/ to https://NULEC LTD.store/product-category/gloves/
+08:54:38	Warning: 	file not stored in cache due to bogus state (incomplete type with  (200), size 110833): https://supimg.nyc3.digitaloceanspaces.com/587fe8fd32841db6fe25f84539738945.jpg
+09:11:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://f004.backblazeb2.com/file/cloudimgs/bc8a3dab339a24c85043965a2b0b1ca1.jpg (from https://NULEC LTD.store/product/early-morning-mug-rise-and-shine-slogan-with-sun-coffee-tea-cup/)
+09:21:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://f004.backblazeb2.com/file/cloudimgs/18ad7cadbed600814f77eaa4039939ac.jpg (from https://NULEC LTD.store/product/novelty-tea-cup-mug-worlds-coolest-dad-slogan/)
+09:21:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://f004.backblazeb2.com/file/cloudimgs/57d0727d064a54ac7b0c5fe22145b5d6.jpg (from https://NULEC LTD.store/product/novelty-tea-cup-mug-worlds-coolest-dad-slogan/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 52 minutes 55 seconds : 13534 links scanned, 13512 files written (1715409862 bytes overall), 8356 files updated [816319975 bytes received at 78681 bytes/sec], 174712793 bytes transferred using HTTP compression in 1006 files, ratio 21%, 1.1 requests per connection
+(8 errors, 25 warnings, 0 messages)
