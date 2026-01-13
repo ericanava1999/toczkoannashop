@@ -4,7 +4,6 @@ function addToCart(product) {
   const cart = JSON.parse(localStorage.getItem("cart") || "[]");
   cart.push(product);
   localStorage.setItem("cart", JSON.stringify(cart));
-  console.log("Đã thêm vào giỏ hàng!");
   console.log("localStorage", localStorage.getItem("cart") || "[]");
 }
 

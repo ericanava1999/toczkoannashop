@@ -264,7 +264,7 @@ function getImageSrc(imageId) {
 
 function restProductPrice(price) {
     let html = `<span class="woocommerce-Price-amount amount">
-        <span class="woocommerce-Price-currencySymbol">$</span>${price}</span>`;
+        <span class="woocommerce-Price-currencySymbol">€</span>${price}</span>`;
     productPrice.html(html);
 }
 
