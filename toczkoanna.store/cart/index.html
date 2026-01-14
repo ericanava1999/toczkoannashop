@@ -662,7 +662,8 @@ async function redirectToSquare() {
 	window.open("https://pay.airwallex.com/nlhes5xy9dyy", "_blank");
   }
   
-  
+  localStorage.removeItem("cart");
+  location.reload();
 }
 </script>
 
